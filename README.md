@@ -29,4 +29,3 @@
 
 <hr>
 
-<p align="center" style="display: inline-block;">"<b><em>Code your future</em></b>"</p>
